@@ -1,0 +1,5 @@
+obj/*
+bin/*
+SudokuSolver/obj/*
+SudokuSolver/bin/*
+.vs/*
